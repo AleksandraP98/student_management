@@ -1,0 +1,42 @@
+[
+    {
+        "student_id": 1,
+        "name": "Lena Nilsson",
+        "age": 20,
+        "grade": "VG",
+        "subjects": [
+            "Math",
+            "English"
+        ]
+    },
+    {
+        "student_id": 2,
+        "name": "Anna Nordlund",
+        "age": 22,
+        "grade": "G",
+        "subjects": [
+            "English",
+            "History"
+        ]
+    },
+    {
+        "student_id": 3,
+        "name": "Aleksandra Popovic",
+        "age": 26,
+        "grade": "VG",
+        "subjects": [
+            "English",
+            "Math"
+        ]
+    },
+    {
+        "student_id": 4,
+        "name": "Henrik Nilsson",
+        "age": 21,
+        "grade": "VG",
+        "subjects": [
+            "Math",
+            "English"
+        ]
+    }
+]
